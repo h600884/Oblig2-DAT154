@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceSim", "SpaceSim\SpaceSim.csproj", "{CDD02FA5-7ABD-4745-A826-2B5820242FF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceSimGraphics", "SpaceSimGraphics\SpaceSimGraphics.csproj", "{C14245B7-C573-4432-94FB-13D176735F50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD02FA5-7ABD-4745-A826-2B5820242FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD02FA5-7ABD-4745-A826-2B5820242FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD02FA5-7ABD-4745-A826-2B5820242FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD02FA5-7ABD-4745-A826-2B5820242FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C14245B7-C573-4432-94FB-13D176735F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14245B7-C573-4432-94FB-13D176735F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14245B7-C573-4432-94FB-13D176735F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14245B7-C573-4432-94FB-13D176735F50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E2CFD2A-9883-4DFA-B6F2-003ACFD85C4E}
+	EndGlobalSection
+EndGlobal
